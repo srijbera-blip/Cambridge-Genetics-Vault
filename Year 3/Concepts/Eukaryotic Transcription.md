@@ -1,0 +1,6 @@
+---
+tags:
+  - concept
+  - eukaryotictranscription
+  - generegulation
+---
