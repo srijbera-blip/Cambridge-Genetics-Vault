@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "57cd4afcc4004879",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c39b23b33577e31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d837a21ed62f90",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "160020b36cdefd70",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e8be21c177d3e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ed9d0cb2a7d34a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3776c6e3ca071c70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8cfdab39b2750844",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07a1e41fdd6b65ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb88ab796f41dfe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a5ec14ef6900b2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "563cd1272e173ef0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7467cbdfaecdfac6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "44a2bfcf7175bc4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f3d837a21ed62f90",
+  "lastOpenFiles": [
+    "maternal-effect morphogen.md",
+    "Pasted image 20250911215720.png",
+    "gap genes.md",
+    "Pasted image 20250911215750.png",
+    "Pasted image 20250911215754.png",
+    "pair-rule genes.md",
+    "segment-polarity genes.md",
+    "Pasted image 20250912112027.png",
+    "homeobox.md",
+    "Homeodomain.md",
+    "morphogen.md",
+    "Year 3/Summer/Cell and Developmental Biology/The genetic revolution, from genes to genomes/Notes on genome organisation and function.md",
+    "Year 3/Summer/Cell and Developmental Biology/Prokaryotic Genetics/Notes on prokaryotic genetics.md",
+    "Year 3/Summer/Cell and Developmental Biology/Notes on Developmental Genetics/Notes on Developmental Genetics.md",
+    "Year 3/Summer/Cell and Developmental Biology/Molecular Biology of Cell nucleus/Lecture 1.md",
+    "Year 3/Summer/Cell and Developmental Biology/Molecular Biology of Cell nucleus/CDB handout 2024 KRUDE.pdf",
+    "Year 3/Summer/Cell and Developmental Biology/Molecular Biology of Cell nucleus/Annotated Handout.md",
+    "Year 3/Summer/Cell and Developmental Biology/Genes, Gene Expression and Cell Decisions/Notes on Gene expression and nuclear molecular biology.md",
+    "Year 3/Summer/Cell and Developmental Biology/Cytoskeleton and mitotic cell division/Notes on cytoskeleton and mitotic cell division.md",
+    "Year 3/Michaelmas/Genes, Genomes & Chromosomes/Background reading/Non-coding RNA and broader implications of the ENCODE project.md",
+    "Year 3/Michaelmas/Genes, Genomes & Chromosomes/Background reading/King and Wilson hypothesis.pdf",
+    "Year 3/Michaelmas/Genes, Genomes & Chromosomes/Background reading/Dissertation on eukaryotic transcription.md",
+    "Year 3/Michaelmas/Genes, Genomes & Chromosomes/Background reading/Basics - regulation of transcription in eukaryotes and genome and genomics.md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/sonic hedgehog (Shh) gene in vertebrate development.md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/Tooklkit genes.md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/The conceptual importance of morphogen.md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/Study guide.md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/Organizer region.md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/Establishing the Anteroposterior Axis (The Drosophila Model).md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/Homomeobox and the homeodomain.md",
+    "Year 3/Michaelmas/Developmental Genetics/Background Reading/Hierarchical cascade of segmentation genes.md",
+    "Year 3/Summer/Cell and Developmental Biology/The genetic revolution, from genes to genomes",
+    "Year 3/Summer/Cell and Developmental Biology/Prokaryotic Genetics",
+    "Year 3/Summer/Cell and Developmental Biology/Notes on Developmental Genetics",
+    "Year 3/Summer/Cell and Developmental Biology/Molecular Biology of Cell nucleus",
+    "Year 3/Summer/Cell and Developmental Biology/Genes, Gene Expression and Cell Decisions",
+    "Year 3/Summer/Cell and Developmental Biology/Cytoskeleton and mitotic cell division",
+    "Year 3/Past Exam Reports/2024/NST2GN_Senior Examiner Report_2024.pdf",
+    "Year 3/Past Exam Reports/2024/NST2GN_External Examiner Report_2024_McLysaght.pdf",
+    "Year 3/Images/Images 1/Screenshot 2025-08-05 at 5.36.07 PM.png",
+    "Year 3/Images/Images 1/Screenshot 2025-08-05 at 5.31.58 PM.png",
+    "Year 3/Images/Images 1/Screenshot 2025-08-05 at 5.22.36 PM.png",
+    "Year 3/Images/Images 1/Screenshot 2025-08-05 at 5.25.36 PM.png",
+    "Year 3/Images/Images 1/Pasted Image 20250805171536_662.png",
+    "Year 3/Images/Images 1/Pasted Image 20250805170923_928.png",
+    "Year 3/Images/Images 1/Images 1.md",
+    "Year 3/Summer/Summer Preparation.canvas"
+  ]
+}
