@@ -1,0 +1,21 @@
+{
+  "cssTheme": "Prism",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboarPlusPlus",
+    "imageGallery",
+    "MCL - Gallery Cards",
+    "MCL - Multi Column",
+    "MCL - Wide Views",
+    "MCL Wide Views",
+    "Nick Milo - Tighter Bottom Properties Margin for Border",
+    "Nick Milo - Prism",
+    "Nick Milo - Custom Callouts - Pro",
+    "Nick Milo - Anuppuchin - Soft Paper",
+    "Nick Milo - Anuppuchin - Soft Folders",
+    "Nick Milo - Aligned Callout Header Titles",
+    "hidePropertiesBase"
+  ],
+  "baseFontSize": 15,
+  "baseFontSizeAction": true
+}

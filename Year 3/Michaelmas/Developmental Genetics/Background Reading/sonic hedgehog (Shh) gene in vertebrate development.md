@@ -17,3 +17,4 @@ Multiple roles of the Sonic hedgehog (Shh) gene in Vertebrate development:
 
 [[Neural tube]] and the nervous system:
 - Shh is expressed in the floor plate of the developing neural tube
+- Shh signalling from these floor plate cells is crucial for the subdivision of brain hemispheres and the separation of the developing eye into left and right sides

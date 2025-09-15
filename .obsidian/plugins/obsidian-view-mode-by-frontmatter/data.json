@@ -1,0 +1,53 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "SISTEMA/TEMPLATES",
+      "viewMode": "obsidianEditingMode: source"
+    },
+    {
+      "folder": "ATLAS/MAPAS",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "folder": "SISTEMA/SOBRE",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "HOMEPAGE",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "Boas Vindas",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "Notas Recentemente Modificadas",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "Buscar Notas",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "Atalhos",
+      "viewMode": ""
+    },
+    {
+      "filePattern": "DIAS",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "% TODAS TAREFAS",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "BARRA DE AÇÕES",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ]
+}
