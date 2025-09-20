@@ -26,5 +26,8 @@
   "widgets",
   "dashboard-navigator",
   "obsidian-banners",
-  "homepage"
+  "homepage",
+  "notebook-navigator",
+  "obsidian-excalidraw-plugin",
+  "symbols-prettifier"
 ]

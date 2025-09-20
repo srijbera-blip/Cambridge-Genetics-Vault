@@ -3,17 +3,17 @@ tags:
   - concept
   - development
 ---
-[[Homeobox]]
+[[homeobox]]
 [[Homeodomain]]
 
 
-The [[homeobox]] is a specific, conserved DNA sequence found within certain genes, while the [[homeodomain]] is the protein domain encoded by this DNA sequence, and it is crucial for the function of HOX proteins as transcription factors.
+The [[homeobox]] is a specific, conserved DNA sequence found within certain genes, while the [[Homeodomain]] is the protein domain encoded by this DNA sequence, and it is crucial for the function of HOX proteins as transcription factors.
 
 The [[homeobox]]:
 - a short conserved region of DNA sequence, 180 base pairs in length
 - was first discovered in homeotic genes (genes which regulate the development of anatomical structures in various organisms such as echinoderms) such as [[Hox]] genes in Dosophila 
 - discovery prompted researchers to search for similar sequences in other animals, revealing its widespread presence across the animal kingdom
-The [[homeodomain]]:
+The [[Homeodomain]]:
 - the homeobox encodes a protein domain called the homeodomain, which consists of 60 amino acids
 - homeodomain is highly conserved in its amino acid sequence among Hox proteins, even across vastly different species like flies, mice and fish, sharing up to 54 of 60 positions
 - structural analysis revealed that the homeodomain forms a helix-turn-helix motif. This motif is characteristic of many DNA binding proteins such as the Lac repressor, delta repressor and Cro proteins found in bacteria

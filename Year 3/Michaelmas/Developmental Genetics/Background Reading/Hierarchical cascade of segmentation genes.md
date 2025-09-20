@@ -9,7 +9,7 @@ maternal genes --> [[gap genes]] --> [[pair-rule genes]] --> [[segment-polarity 
 
 cascade begins with maternal-effect genes, whose products are deposited in the egg by the mother, setting up initial regional differences and gradients. A key example is the [[Bicoid]] protein, which forms an anteroposterior concentration gradient. This gradient provides the primary positional information, activating the first set of zygotic genes, known as [[gap genes]]
 
-[[Gap genes]]
+[[gap genes]]
 - general function: gap genes are the first zygotic genes to be expressed along the anteroposterior axis. they subdivide the early embryo into broad, contiguous blocks of segments. All gap genes encode [[transcription factors]]. Their activity converts the maternal gradients into an aperiodic pattern of transcription factors, defining major body regions
 - mutant phenotype: mutations in gap genes lead to embryos missing large, contiguous blocks of segments, creating 'gaps' in the segmentation pattern
 - regulation and expression: their expression is initiated by the maternal Bicoid protein gradient. For example, Bicoid directly activates the anterior expression of [[hunchback]]. Gap gene proteins in turn act as morphogens to activate and repress other gap genes in a conc dependent manner. ==There is also extensive cross inhibition between overlapping gap gene proteins to sharpen and stabilise the expression boundaries. Gap proteins are expressed in blocks of cells corresponding to the segments missing in their respective mutants==
@@ -21,7 +21,7 @@ cascade begins with maternal-effect genes, whose products are deposited in the e
 - regulation and expression: expression directly influenced by activity of gap genes. pair rule genes are expressed in seven striking transverse stripes across the embryo, with each stripe corresponding to every second parasegment. each of these stripes is controlled independently by specific cis-acting regulatory elements that integrate combinatorial inputs from multiple transcription factors (maternal and gap proteins)
 - key gene example" even skipped (eve) is a well studies pair rule gene. expressed in the odd numbered parasegments with its stripes being regulated by combinations of Bicoid, Hunchback (activators), and Giant and Kruppel (suppressors)
 
-### [[Gap Genes]] vs [[Pair-Rule genes]]
+### [[gap genes]] vs [[pair-rule genes]]
 
 Gap genes are the first set of zygotic genes to be expressed along the anterior-posterior axis. Their job is to interpret the broad, smooth gradients of maternal effect proteins (like Bicoid and Hunchback) and translate them into smaller, more defined domains.
 - **Function:** To establish large, multi-segment regions of the embryo. Think of them as drawing the rough outlines of major body sections (e.g., head, thorax, abdomen).
@@ -35,7 +35,7 @@ Pair-rule genes are the next level down in the hierarchy. They read the more det
 - **Regulation:** They are regulated by the gap genes. The intricate seven-stripe pattern is achieved because each individual stripe is controlled by a unique combination of different gap gene proteins acting as activators or repressors. For instance, stripe 2 of the _eve_ gene is activated by Bicoid and Hunchback but repressed by Giant and Krüppel.
 - **Mutant Phenotype:** A mutation in a pair-rule gene results in the deletion of **every other segment**. This gives the larva a "paired" or shortened appearance, as it only has half the normal number of segments.
 
-[[Segment-polarity genes]]
+[[segment-polarity genes]]
 - general function: segment polarity genes are crucial for aptterning within each segment and for stabilising parasegment boundaries. unlike earlier genes, they operate in cellularised environment, involving intercellular communication. they further refine the segmental organization set by [[pair-rule genes]]
 - mutant phenotype: mutations in here lead to defects in segment polarity and number, often resulting in loss of parts of each segments
 - regulation and expression: they're activated in response to [[pair-rule genes]] expression. --> include gene products such as transcription factors (E.g. engrailed), secreted signalling proteins (ligands like Wingless and hedgehog), and transmembrane receptors (like Patched). a critical feature is an intercellular signalling circuit involving engrailed, hedgehog and wingless. Engrailed-expressing cells also express and secrete Hedgehog, which acts on adjacent cells to activate _wingless_. Wingless, in turn, signals back to the _engrailed_-expressing cells, maintaining both _engrailed_ and _hedgehog_ expression, thereby stabilizing the parasegment boundary and establishing it as a signaling center. Segment polarity genes are expressed in **14 distinct transverse stripes**, one per segment, which are typically one to two cells wide

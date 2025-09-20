@@ -1,3 +1,12 @@
+---
+tags:
+  - transposons
+  - mobiledna
+  - genegenomesandchromosomes
+---
+
+
+
 # Genome Organization and Function: Comprehensive Study Guide
 
 ## I. Overview of Genomics and its Technologies

@@ -18,3 +18,23 @@ Multiple roles of the Sonic hedgehog (Shh) gene in Vertebrate development:
 [[Neural tube]] and the nervous system:
 - Shh is expressed in the floor plate of the developing neural tube
 - Shh signalling from these floor plate cells is crucial for the subdivision of brain hemispheres and the separation of the developing eye into left and right sides
+- eliminating Shh function in mice can result in cyclopia (a single central eye and forebrain) and a lack of limb structures
+- Shh acts as a [[ventral patterning signal]] in the neural tube, forming a gradient from ventral to dorsal
+
+[[Somite]] patterning
+- Shh, expressed by the [[notochord]] and floor plate of the neural tube, patterns the somites. high levels of Shh specify the ventral region of the somite and are essential for sclerotome development, while lower levels, combined with other signals, specify the dorsal region
+
+[[Feather bud]] formation
+- Shh is expressed in developing feather buds, where it plays a role in establishing the pattern and polarity of feather formation
+
+[[Craniofacial development]] and [[Holoprosencephaly]]
+- Shh involved in craniofacial development. mutation in the human Shh coding are linked to [[holoprosencephaly]], a condition characterised by abnormalities in brain size, nose and other midline structures. This condition can also arise from defects in the Shh signaling pathway or primary cilia, where Shh signaling takes place
+
+Gonad Development
+- one of the vertebrate hedgehog homologs, Desert Hedgehod (Dhh), is secreted by Sertoli cells in the developing testis and promotes the differentiation of Leydig cells, which produce testosterone
+
+Lung development
+- Shh helps organize lung branching morphogenesis by inhibit the expression of Fgf10 in the mesoderm, contributing to a reaction-diffusion model for tubule bifurcation
+
+Adult Tissue Regulation
+- in adults, Shh plays a role in controlling the growth of [[stem cells]], and its misregulation is associated with tumour formation

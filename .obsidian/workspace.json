@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "c5514930ee95eeb0",
+            "id": "5b63cf7c0c5fe868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMA/TEMPLATES/BARRA DE AÇÕES.md",
+                "file": "Year 3/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,35 +54,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BARRA DE AÇÕES"
+              "title": "Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control."
             }
           },
           {
-            "id": "2369f5829f25e79d",
+            "id": "0312df1c29a02ecf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Michaelmas/Developmental Genetics/Background Reading/sonic hedgehog (Shh) gene in vertebrate development.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sonic hedgehog (Shh) gene in vertebrate development"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,13 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3/Michaelmas/Developmental Genetics/Background Reading/sonic hedgehog (Shh) gene in vertebrate development.md",
+                "file": "Year 3/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sonic hedgehog (Shh) gene in vertebrate development"
+              "title": "Outline of ‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function."
             }
           },
           {
@@ -129,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project/projeto_2  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +123,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -159,12 +145,22 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "73488f73e61c3258",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 420.50312423706055
   },
   "right": {
     "id": "10862ba78f6a46ca",
@@ -174,6 +170,18 @@
         "id": "c20f8c2c3963ddaf",
         "type": "tabs",
         "children": [
+          {
+            "id": "f873cb294b2c1c1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Year 3/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for ‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function."
+            }
+          },
           {
             "id": "ca19f0e65e17ab32",
             "type": "leaf",
@@ -199,18 +207,6 @@
             }
           },
           {
-            "id": "f873cb294b2c1c1b",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "HOMEPAGE.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for HOMEPAGE"
-            }
-          },
-          {
             "id": "d5fcfb6006d7b89f",
             "type": "leaf",
             "state": {
@@ -218,11 +214,21 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "c5514930ee95eeb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -245,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMA/SOBRE/Guias Práticos.md",
+                "file": "Year 3/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Guias Práticos"
+              "title": "Backlinks for Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression."
             }
           }
         ]
@@ -294,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 626.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,40 +318,43 @@
       "widgets:Add widget": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "homepage:Open homepage": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "2369f5829f25e79d",
+  "active": "5b63cf7c0c5fe868",
   "lastOpenFiles": [
-    "Year 3/Michaelmas/Developmental Genetics/Background Reading/Organizer region.md",
+    "Year 3/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
+    "Year 3/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md",
+    "Year 3/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md",
     "HOMEPAGE.md",
-    "SISTEMA/SOBRE/LYT/Atalhos.md",
-    "SISTEMA/TEMPLATES/BARRA DE AÇÕES.md",
-    "CALENDÁRIO/DIAS/2025-09-12.md",
-    "ATLAS/MAPAS/+/Mapa Boas Vindas .md",
-    "ATLAS/MAPAS/+/mapa 2.md",
-    "ATLAS/MAPAS/+/mapa 1.md",
-    "ESFORÇOS/PROJETOS/Projeto 1/Análise SWOT.md",
-    "SISTEMA/TEMPLATES/SNIPPET/% ADICIONAR VIDEO.md",
-    "ESFORÇOS/2_PROJETOS.md",
-    "SISTEMA/TEMPLATES/FORMAT/NOTA-DIARIA-TEMPLATE.md",
-    "ESFORÇOS/PROJETOS/Projeto 1/Projeto 1.md",
+    "Year 3/Concepts/DNA-based Transposons.md",
+    "Year 3/Concepts/transposable elements.md",
+    "Year 3/Summer/Cell and Developmental Biology/The genetic revolution, from genes to genomes/Notes on genome organisation and function.md",
+    "Year 3/Concepts/Transcription factors.md",
+    "Year 3/Concepts/erasers.md",
+    "Year 3/Concepts/Histone acetylation.md",
+    "Year 3/Concepts/histone code hypothesis.md",
+    "Year 3/Concepts/segment-polarity genes.md",
+    "Year 3/Essays/Genes, Genomes & Chromosomes/Drawing 2025-08-27 21.14.01.excalidraw.md",
+    "Year 3/Concepts/Toolkit genes.md",
+    "Year 3/Concepts/readers.md",
+    "Year 3/Concepts/writers.md",
+    "Year 3/Images/Pasted image 20250911215720.png",
+    "Year 3/Concepts/maternal-effect morphogen.md",
+    "selfish parasites.md",
+    "Year 3/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md",
+    "Year 3/Concepts/Acetylation.md",
+    "Year 3/Summer/Cell and Developmental Biology/Genes, Gene Expression and Cell Decisions/Notes on Gene expression and nuclear molecular biology.md",
+    "Year 3/Concepts/Histone Modification.md",
+    "Year 3/Concepts/Methylation.md",
+    "Year 3/Concepts/DNA Methylation.md",
+    "Year 3/Concepts/Chromatin Structure.md",
+    "Year 3/Concepts/Gal80.md",
     "ESFORÇOS/PROJETOS/Projeto 1",
-    "ESFORÇOS/1_AREAS.md",
-    "ESFORÇOS/AREAS/Saúde/Saúde.md",
-    "ESFORÇOS/AREAS/Finanças/Plano de gastos Anual.md",
-    "ESFORÇOS/AREAS/Finanças/Finanças.md",
-    "ESFORÇOS/AREAS/Finanças/Metas de ganhos.md",
     "ESFORÇOS/AREAS/Finanças",
-    "ESFORÇOS/AREAS/Saúde/Meta de treinos.md",
     "ESFORÇOS/AREAS/Saúde",
-    "SISTEMA/SOBRE/_COLEÇÕES.md",
-    "+/scripts dataviewjs.md",
-    "SISTEMA/SOBRE/LYT/Nick Milo's Starting Custom Callouts.md",
-    "README.md",
-    "CALENDÁRIO/DIAS/2025-09-11.md",
-    "SISTEMA/SOBRE/Notas Recentemente Modificadas.md",
-    "CALENDÁRIO/DIAS/2025-09-04.md",
     "SISTEMA/MEDIA/Pasted image 20250910044512.png",
     "index.py",
     "SISTEMA/SCRIPTS/last-created.js",
@@ -360,7 +370,6 @@
     "SISTEMA/MEDIA/Images/LYT Ideaverse Wallpaper - Purple.jpg",
     "SISTEMA/MEDIA/Images/lyt-crafting-mocs-5.jpg",
     "SISTEMA/MEDIA/Images/flight-school-interfacing-excellence-award.jpg",
-    "SISTEMA/MEDIA/Images/robert-mccall-space-ship-launch-narrow.jpg",
     "SISTEMA/MEDIA/Images",
     "ATLAS/FONTES/Sem título.canvas",
     "Sem título.canvas"
