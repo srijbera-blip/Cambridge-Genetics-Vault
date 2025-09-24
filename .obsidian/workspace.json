@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
+                "file": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,9 +66,57 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "5d57e78a7d448de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/Genetics/Concepts/Modularity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Modularity"
+            }
+          },
+          {
+            "id": "ae5eba377ddfc598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/PFP C/Questions to ask.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questions to ask"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "LexA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,10 +224,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 3/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md"
+                "file": "Year 3/PFP C/Questions to ask.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function."
+              "title": "File properties for Questions to ask"
             }
           },
           {
@@ -300,8 +348,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5,
-    "collapsed": true
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,35 +370,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b63cf7c0c5fe868",
+  "active": "ae5eba377ddfc598",
   "lastOpenFiles": [
-    "Year 3/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
-    "Year 3/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md",
-    "Year 3/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md",
+    "Year 3/PFP C/CHARITIES.md",
+    "Year 3/PFP C/Questions to ask.md",
+    "Year 3/Genetics/Concepts/Modularity.md",
     "HOMEPAGE.md",
-    "Year 3/Concepts/DNA-based Transposons.md",
-    "Year 3/Concepts/transposable elements.md",
-    "Year 3/Summer/Cell and Developmental Biology/The genetic revolution, from genes to genomes/Notes on genome organisation and function.md",
-    "Year 3/Concepts/Transcription factors.md",
-    "Year 3/Concepts/erasers.md",
-    "Year 3/Concepts/Histone acetylation.md",
-    "Year 3/Concepts/histone code hypothesis.md",
-    "Year 3/Concepts/segment-polarity genes.md",
-    "Year 3/Essays/Genes, Genomes & Chromosomes/Drawing 2025-08-27 21.14.01.excalidraw.md",
-    "Year 3/Concepts/Toolkit genes.md",
-    "Year 3/Concepts/readers.md",
-    "Year 3/Concepts/writers.md",
-    "Year 3/Images/Pasted image 20250911215720.png",
-    "Year 3/Concepts/maternal-effect morphogen.md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
+    "Year 3/Philosophy and Ethics of Medicine",
+    "Year 3/Genetics",
+    "CALENDÁRIO/DIAS/2025-09-22.md",
+    "Year 3/Genetics/Summer/Cell and Developmental Biology/Molecular Biology of Cell nucleus/Annotated Handout.md",
+    "Year 3/Genetics/Concepts/Gal4.md",
+    "Year 3/Genetics/Concepts/Combinatorial control.md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md",
+    "Year 3/Genetics/Concepts/DNA-based Transposons.md",
+    "Year 3/Genetics/Concepts/transposable elements.md",
+    "Year 3/Genetics/Summer/Cell and Developmental Biology/The genetic revolution, from genes to genomes/Notes on genome organisation and function.md",
+    "Year 3/Genetics/Concepts/Transcription factors.md",
+    "Year 3/Genetics/Concepts/erasers.md",
+    "Year 3/Genetics/Concepts/Histone acetylation.md",
+    "Year 3/Genetics/Concepts/histone code hypothesis.md",
+    "Year 3/Genetics/Concepts/segment-polarity genes.md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Drawing 2025-08-27 21.14.01.excalidraw.md",
+    "Year 3/Genetics/Concepts/Toolkit genes.md",
+    "Year 3/Genetics/Concepts/readers.md",
+    "Year 3/Genetics/Concepts/writers.md",
+    "Year 3/Genetics/Images/Pasted image 20250911215720.png",
+    "Year 3/Genetics/Concepts/maternal-effect morphogen.md",
     "selfish parasites.md",
-    "Year 3/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md",
-    "Year 3/Concepts/Acetylation.md",
-    "Year 3/Summer/Cell and Developmental Biology/Genes, Gene Expression and Cell Decisions/Notes on Gene expression and nuclear molecular biology.md",
-    "Year 3/Concepts/Histone Modification.md",
-    "Year 3/Concepts/Methylation.md",
-    "Year 3/Concepts/DNA Methylation.md",
-    "Year 3/Concepts/Chromatin Structure.md",
-    "Year 3/Concepts/Gal80.md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md",
     "ESFORÇOS/PROJETOS/Projeto 1",
     "ESFORÇOS/AREAS/Finanças",
     "ESFORÇOS/AREAS/Saúde",
@@ -361,7 +410,6 @@
     "SISTEMA/SCRIPTS/last-modified.js",
     "SISTEMA/SCRIPTS/last-modified.JS",
     "SISTEMA/SCRIPTS/1.JS",
-    "SISTEMA/SCRIPTS",
     "SISTEMA/MEDIA/Images/lyt-crafting-mocs-2.jpg",
     "SISTEMA/MEDIA/Images/flight-school-checklist.jpg",
     "SISTEMA/MEDIA/Images/lyt-crafting-mocs-0.jpg",
@@ -370,7 +418,6 @@
     "SISTEMA/MEDIA/Images/LYT Ideaverse Wallpaper - Purple.jpg",
     "SISTEMA/MEDIA/Images/lyt-crafting-mocs-5.jpg",
     "SISTEMA/MEDIA/Images/flight-school-interfacing-excellence-award.jpg",
-    "SISTEMA/MEDIA/Images",
     "ATLAS/FONTES/Sem título.canvas",
     "Sem título.canvas"
   ]

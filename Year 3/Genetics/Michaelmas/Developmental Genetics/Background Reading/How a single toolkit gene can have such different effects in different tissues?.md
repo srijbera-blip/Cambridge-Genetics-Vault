@@ -1,0 +1,13 @@
+---
+tags:
+  - development
+  - generegulation
+---
+1. **Context dependent action:** function of and individual [[Tooklkit genes|toolkit protein]], including Shh, is almost always context-dependent, meaning that the specific outcome of Shh signaling varies significantly based on the tissue or cell type it acts upon. For instance Shh signaling induces a particular set of genes in the developing limb, a different set in the feather bud, and yet another set in the neural tube's [[floor plate]]
+2. Integration with other toolkit genes and signals: specificity of Shh's action is determined by its integration with other toolkit genes and signaling molecules operating at the same time and in the same location. Cells in different tissues possess unique developmental histories and express distinct combinations of [[Transcription factors]], allowing them to interpret and respond to Shh signals in diverse ways
+ 3. [[Cis-acting elements|Cis-acting regulatory elements]] (CREs) and [[Modularity|modularity]]: [[Tooklkit genes|Toolkit genes]] possess  numerous independent cis-acting regulatory elements that precisely control their expression in distinct spatial domains and at different developmental stages. This [[Modularity|modularity]] allows for independent spatial and temporal regulation of gene expression and function. For example, a mutation is specific cis-acting regulatory element for Shh functions elsewhere int he embryo. These elements act as switches that activate or repress gene expression in a highly specific manner
+ 4.  Graded response and [[Transcription factors]]: Shh functions as a [[Pattern formation, morphogen gradients (e.g., Bicoid), and the function of Hox genes.|morphogen]] meaning its conc gradient provides positional information to cells. cells respond  to different threshold concentrations of Shh by activating or repressing specific target genes 
+intracellular signalling pathway activated by Shh involves Gli transcription factors (Gli1, 2, 3) in vertebrates, which are analogous to Cubitus interruptus in Drosophila
+in Shh presence, Gli proteins act as transcriptional activators. in its absence Gli2 and 3 are processed into receptors. ratio of Gli activator to repressor dictates the cellular response to Shh levels
+this mechanism allows Shh to specify multiple cells fates along a gradient as seen in the ventral spinal cord
+In essence, Shh acts like a versatile "tool" in a genetic toolkit. While the tool itself (the Shh protein) is conserved, the "project" (tissue), the "other tools" (other toolkit genes and signals), and the "instructions" (context-specific _cis_-regulatory elements and downstream transcription factors like Gli proteins) change, leading to vastly different developmental outcomes

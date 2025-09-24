@@ -31,4 +31,4 @@ cssclasses:
 > [!rainbow] Framework ARC » [[Adicionar]] | [[Relacionar]] | [[Comunicar]] 
 
 ---
-# Checklist Prático ![[Checklist]]
+# Checklist Prático ![[SISTEMA/SOBRE/LYT/Checklist]]

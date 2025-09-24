@@ -1,6 +1,0 @@
----
-tags:
-  - concept
-aliases:
-  - modular
----

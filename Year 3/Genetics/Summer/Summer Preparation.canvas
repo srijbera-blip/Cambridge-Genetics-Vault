@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"de420c7e23b33d18","x":-100,"y":-940,"width":1500,"height":880,"type":"group","label":"Genes, Genomes and Chromsomes"},
+		{"id":"2608675686bd383f","type":"file","file":"Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes/Background reading/Basics - regulation of transcription in eukaryotes and genome and genomics.md","x":-80,"y":-820,"width":580,"height":400},
+		{"id":"fec02fe0514482cf","type":"text","text":"23-27th July","x":-80,"y":-920,"width":250,"height":60},
+		{"id":"32c9f4243840f995","type":"file","file":"Year 3/Genetics/Summer/Plan.md","x":-1140,"y":-620,"width":660,"height":620},
+		{"id":"432a3226542cb46c","x":600,"y":-820,"width":400,"height":400,"type":"file","file":"Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md"},
+		{"id":"4e45332352829137","x":600,"y":-920,"width":250,"height":60,"type":"text","text":"28th July"}
+	],
+	"edges":[
+		{"id":"d5f0f6a85aafc048","fromNode":"32c9f4243840f995","fromSide":"right","toNode":"2608675686bd383f","toSide":"left"}
+	]
+}
