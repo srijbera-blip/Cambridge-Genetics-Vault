@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Questions to ask",
-      "path": "Year 3/PFP C/Questions to ask.md"
+      "basename": "Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control.",
+      "path": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md"
     },
     {
-      "basename": "CHARITIES",
-      "path": "Year 3/PFP C/CHARITIES.md"
-    },
-    {
-      "basename": "Modularity",
-      "path": "Year 3/Genetics/Concepts/Modularity.md"
+      "basename": "SWI-SNF",
+      "path": "Year 3/Genetics/Concepts/SWI-SNF.md"
     },
     {
       "basename": "HOMEPAGE",
       "path": "HOMEPAGE.md"
     },
     {
-      "basename": "Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control.",
-      "path": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md"
+      "basename": "Coactivators",
+      "path": "Year 3/Genetics/Concepts/Coactivators.md"
+    },
+    {
+      "basename": "Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression.",
+      "path": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md"
+    },
+    {
+      "basename": "Junk DNA is a defunct concept. Explain.",
+      "path": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md"
+    },
+    {
+      "basename": "Modularity",
+      "path": "Year 3/Genetics/Concepts/Modularity.md"
+    },
+    {
+      "basename": "Questions to ask",
+      "path": "Year 3/PFP C/Questions to ask.md"
+    },
+    {
+      "basename": "Position-Effect Variegation",
+      "path": "Year 3/Genetics/Concepts/Position-Effect Variegation.md"
+    },
+    {
+      "basename": "CHARITIES",
+      "path": "Year 3/PFP C/CHARITIES.md"
     },
     {
       "basename": "2025-09-22",
@@ -35,10 +55,6 @@
     {
       "basename": "Combinatorial control",
       "path": "Year 3/Genetics/Concepts/Combinatorial control.md"
-    },
-    {
-      "basename": "Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression.",
-      "path": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md"
     },
     {
       "basename": "‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function.",
@@ -99,10 +115,6 @@
     {
       "basename": "maternal-effect morphogen",
       "path": "Year 3/Genetics/Concepts/maternal-effect morphogen.md"
-    },
-    {
-      "basename": "Junk DNA is a defunct concept. Explain.",
-      "path": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md"
     },
     {
       "basename": "Acetylation",
@@ -187,18 +199,6 @@
     {
       "basename": "Análise SWOT",
       "path": "ESFORÇOS/PROJETOS/Projeto 1/Análise SWOT.md"
-    },
-    {
-      "basename": "% ADICIONAR VIDEO",
-      "path": "SISTEMA/TEMPLATES/SNIPPET/% ADICIONAR VIDEO.md"
-    },
-    {
-      "basename": "2_PROJETOS",
-      "path": "ESFORÇOS/2_PROJETOS.md"
-    },
-    {
-      "basename": "NOTA-DIARIA-TEMPLATE",
-      "path": "SISTEMA/TEMPLATES/FORMAT/NOTA-DIARIA-TEMPLATE.md"
     }
   ],
   "omittedPaths": [],

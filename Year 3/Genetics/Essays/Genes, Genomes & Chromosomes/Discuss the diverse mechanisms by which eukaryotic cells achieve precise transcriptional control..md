@@ -170,7 +170,7 @@ tags:
         
     2. **Recruitment of Repressive Complexes:** Repressive marks act as signals to build silent chromatin.
         
-        - **Histone-based:** In a process exemplified by **Position-Effect Variegation (PEV)**, the "writer" enzyme **Su(var)3-9** methylates H3 at lysine 9 (H3K9me3). This repressive mark is then "read" by **HP1 (Heterochromatin Protein 1)** via its chromodomain. HP1 then recruits more Su(var)3-9, creating a self-propagating feed-forward loop that compacts and spreads silent **heterochromatin**.
+        - **Histone-based:** In a process exemplified by **[[Position-Effect Variegation]] (PEV)**, the "writer" enzyme **Su(var)3-9** methylates H3 at lysine 9 (H3K9me3). This repressive mark is then "read" by **HP1 (Heterochromatin Protein 1)** via its chromodomain. HP1 then recruits more Su(var)3-9, creating a self-propagating feed-forward loop that compacts and spreads silent **heterochromatin**.
             
         - **DNA-based:** **DNA Methyltransferases (DNMTs)** add methyl groups to cytosines in CpG islands. This can directly block some TFs, but more importantly, it recruits **Methyl Binding Domain (MBD) proteins**, which in turn recruit repressive complexes containing HDACs to ensure the region is silenced.
             
@@ -193,7 +193,7 @@ tags:
         
 - **B. ATP-Dependent Chromatin Remodelers (The "Movers"):**
     
-    - These are large, multi-protein complexes like the famous **SWI/SNF** family that use the energy from ATP hydrolysis to physically disrupt histone-DNA interactions.
+    - These are large, multi-protein complexes like the famous **[[SWI-SNF|SWI/SNF]]** family that use the energy from ATP hydrolysis to physically disrupt histone-DNA interactions.
         
     - **Key Functions:** They create a dynamic chromatin environment by:
         
@@ -218,7 +218,7 @@ tags:
         
     3. The HAT acetylates local histone tails ("writes the mark").
         
-    4. A remodeling complex like **SWI/SNF** is then recruited via its **bromodomain** subunit ("reader"), which specifically recognizes and binds the acetylated histones.
+    4. A remodeling complex like **[[SWI-SNF|SWI/SNF]]** is then recruited via its **bromodomain** subunit ("reader"), which specifically recognizes and binds the acetylated histones.
         
     5. Once recruited, the remodeler uses ATP to "move" the nucleosome, physically exposing the promoter for transcription.
         

@@ -4,104 +4,84 @@ tags:
 aliases:
   - SWI/SNF
 ---
-Non-coding RNAs (ncRNAs) are functional RNA molecules that are **never translated into proteins**. Instead, they actively participate in various cellular processes, including **decoding mRNA sequences into amino acids** (tRNAs), **forming structural and functional components of ribosomes** (rRNAs), and regulating gene expression
+The SWI/SNF (switch-sniff) complex is a major example of an **ATP-dependent chromatin remodeling complex** that plays a crucial role in regulating gene transcription
 
 .
 
-**Key Types and Functions of Non-Coding RNAs:**
+Here is a comprehensive overview of the SWI/SNF complexes based on the provided sources:
 
-• **Transfer RNAs (tRNAs)**: These ncRNAs are crucial for translation, associating three-nucleotide sequences in an mRNA with their corresponding amino acids
+Function and Mechanism
 
-. They have a specific L-shaped three-dimensional structure and contain modified nucleotides and a CCA sequence at their 3' end for amino acid attachment
-
-.
-
-• **Ribosomal RNAs (rRNAs)**: Along with proteins, rRNAs compose ribosomes, the machinery where protein synthesis occurs
-
-. Ribosomes position tRNAs and mRNAs, and rRNAs are responsible for key functions such as ensuring the ribosome starts translation at the correct position and catalyzing peptide bond formation
+The primary role of SWI/SNF is to dynamically alter chromatin structure, generally serving a **[[Coactivators|co-activator]] function** to promote transcription
 
 .
 
-• **Long non-coding RNAs (lncRNAs)**: These are non-protein-coding transcripts longer than 200 nucleotides
+1. **ATP Dependency:** SWI/SNF complexes utilize energy derived from **ATP hydrolysis** to disrupt non-covalent histone-DNA interactions and mobilize nucleosomes
 
 .
 
-    ◦ **XIST (X-inactive specific transcript)**: Plays a central role in initiating the silencing of one of the X chromosomes in mammals, a process known as X-inactivation. It recruits the PRC2 complex, which trimethylates H3K27, leading to developmental silencing
+2. **Remodeling Activities:** These complexes alter nucleosome structure in various ways, allowing DNA binding factors to gain access to sites on the DNA that might otherwise be blocked by nucleosomes
+
+. These activities include:
+
+    ◦ **Sliding nucleosomes** along the DNA fiber
 
 .
 
-    ◦ **HOTAIR and KCNQ1**: Other lncRNAs implicated in targeting Polycomb group (PcG) proteins to specific gene loci
+    ◦ **Ejecting or replacing histone octamers** or parts of octamers on DNA
 
 .
 
-    ◦ **HOTTIP (HOXA transcript at the distal tip)**: Interacts with the WDR5 subunit of the COMPASS complex to recruit it to the HOXA locus, contributing to the recruitment of Trithorax group (TrxG) complexes
+3. **Stepwise Mechanism:** Specifically, SWI/SNF affects transcription by remodeling nucleosomes in a two-step process: initially **removing an H2A/H2B dimer from DNA**, followed by the removal of the rest of the histone octamer
 
 .
 
-    ◦ **Chromosome-associated regulatory RNA**: Certain ncRNAs found on chromosomes can regulate chromatin state and transcription
+Discovery and Structure
+
+The SWI/SNF complex was discovered through genetic screens in the simple eukaryote _Saccharomyces cerevisiae_ (yeast)
 
 .
 
-• **MicroRNAs (miRNAs)**: These are small RNAs, approximately 21 nucleotides long
+• **Genetic Screens:** The complex was named based on two seemingly unrelated mutant phenotypes observed in yeast: _snf_ (sugar non-fermenting) mutants, which lacked growth on sucrose, and _swi_ (switching) mutants, which showed defective mating type switching
 
 .
 
-    ◦ They **bind with imperfect complementarity to target mRNAs**, inhibiting their translation and promoting their decay
+• **Subunits:** SWI/SNF is a **large multi-subunit complex**
+
+. The protein encoded by the **swi2/snf2** locus was found to be the **ATPase subunit** of the complex
 
 .
 
-    ◦ **Most biological processes, including cell differentiation, growth, and proliferation**, are regulated by miRNAs
+• **Targeting and Specificity:** The gene specificity of SWI/SNF is regulated by binding mechanisms
+
+. For instance, it can achieve specificity by **binding to transcription factors such as Gal4**. It is also targeted through the **binding of a bromodomain-containing subunit of the complex to acetylated lysine**. This highlights that SWI/SNF functions in concert with transcription factors and histone modifying enzymes
 
 .
 
-    ◦ They associate with Argonaute (Ago) proteins and other proteins to form an **RNA-induced silencing complex (RISC)**
+Roles in Transcription Regulation
+
+SWI/SNF complexes are vital for enabling the transcription machinery to access DNA by creating **open chromatin** environments
 
 .
 
-    ◦ MiRNAs play a significant role in **developmental timing**, as exemplified by the _let-7_ gene in _C. elegans_. Mutations in "heterochronic genes" like _let-7_ alter the timing of cell-fate specification events, with _let-7_ targeting genes like _lin-41_ to affect larval-to-adult transition
-
-. The _let-7_ gene and its regulatory interaction with _lin-41_ are widely conserved across species, including humans, mice, and _Drosophila_
+• **General Recruitment:** Chromatin modifications, such as acetylation, recruit ATP-dependent chromatin remodeling complexes like SWI/SNF, which **change factor accessibility to DNA**
 
 .
 
-    ◦ miRNAs are also involved in the **pathology and treatment of diseases**
+• **Insulator Function:** SWI/SNF chromatin remodelers may be among the activating enzymes recruited by insulator-binding proteins to **block the spread of heterochromatin**
 
 .
 
-    ◦ Recent research indicates that **m6A RNA methylation, regulated by proteins like RBM15, controls the stoichiometry and assembly of SWI/SNF chromatin remodelling complex subunits**
+• **IFN-β** **Gene Activation:** In the well-characterized human _interferon-beta_ (_IFN-β_) gene, SWI/SNF is recruited to the promoter region by **binding to H4K8ac** and through **interactions with the HAT protein CBP** (CREB-binding proteins)
 
-. This pathway involves m6A "writer" complexes (like RBM15-containing complexes), "erasers," and "readers" (like YTHDF1/2/3 families), which together regulate mRNA stability and translation efficiency. Disruption of this regulation, for example by RBM15 knockout, can lead to the assembly of incomplete SWI/SNF complexes lacking catalytic ATPase/ARP subunits, impairing chromatin remodelling activity
-
-.
-
-**Implications of the ENCODE Project:**
-
-The Encyclopedia of DNA Elements (ENCODE) project was launched with the ambitious goal of **identifying all functional elements within the human genome**
-
-. This large-scale collaborative effort utilized a diverse array of techniques, including ChIP-seq and RNA-seq, to detect sequences potentially involved in gene transcription control and all transcribed regions
+. The SWI/SNF complex then **remodels nucleosomes** to allow RNA Polymerase II to initiate transcription, demonstrating how histone modifications aid the assembly of chromatin remodeling factors
 
 .
 
-• **Challenging the "Junk DNA" Concept**: ENCODE's findings revealed that **nearly 80% of the human genome produces RNA transcripts**, a much larger fraction than previously expected, given that only about 1% of the genome codes for proteins
+Clinical Significance
 
-. This discovery significantly challenges the long-held notion that vast stretches of non-protein-coding DNA are "junk DNA."
+The function of SWI/SNF is often implicated in disease states:
 
-• **Identification of Regulatory Elements**: The project estimated approximately **500,000 potential enhancers and promoters** associated with known genes by searching for regions associated with transcription factor binding
-
-. This highlights the immense complexity of gene regulation in eukaryotes, where transcription factors interact with numerous and complex _cis_-acting regulatory elements
-
-.
-
-• **Need for Functional Validation**: While a large percentage of the genome is transcribed, the project also acknowledged that **the production of a transcript does not necessarily mean it has a biological function**; some may be "noise"
-
-.
-
-• **Leveraging Evolutionary Conservation**: To resolve questions of functionality for non-coding elements, ENCODE and subsequent studies have emphasized **evolutionary conservation as a strong indicator of biological function**
-
-. Sequences that have been preserved over millions of years of evolution are likely functional, and these ultraconserved elements are particularly concentrated near **regulatory genes important for development**. This approach suggests that many non-coding regulatory elements, including those influencing the "genetic toolkit" for development, can be identified and validated
-
-.
-
-In summary, the study of ncRNAs has revealed that a significant portion of the genome, once thought to be inactive, plays crucial and diverse roles in gene regulation, chromatin organization, and developmental processes. The ENCODE project has underscored this by mapping the extensive transcriptional activity and regulatory elements across the human genome, thereby **revolutionizing our understanding of genome function beyond mere protein coding and providing a critical foundation for comprehending both normal biology and disease states**
+• **Cancer:** Subunits of the SWI/SNF complex are **mutated in >20% of human cancers** and are considered likely causal in a number of tumor types
 
 .
