@@ -9,7 +9,7 @@ explain
 only 1.5-2% of dna contains protein coding exons
 45-60% of human genome is made of repetitive DNA, much of which comes from transposable elements
 about 80% of dna is transcribed - one of the most surprising findings of the ENCODE project
-only 2-5% is coding while rest is ncRNA which tend to have regulatory effects
+only 2-5% is coding while rest is [[Non-coding RNAs|ncRNA]] which tend to have regulatory effects
 
 
 

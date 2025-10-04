@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
+                "file": "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Personal Notes/Cell Cycle Control and Cancer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control."
+              "title": "Cell Cycle Control and Cancer"
             }
           },
           {
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Genetics/Concepts/Modularity.md",
+                "file": "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Background reading/Non-coding RNA and broader implications of the ENCODE project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Modularity"
+              "title": "Non-coding RNA and broader implications of the ENCODE project"
             }
           }
         ],
@@ -201,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md"
+                "file": "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control."
+              "title": "File properties for Junk DNA is a defunct concept. Explain."
             }
           },
           {
@@ -333,7 +333,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 626.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -357,44 +358,43 @@
   },
   "active": "5b63cf7c0c5fe868",
   "lastOpenFiles": [
-    "Year 3/Genetics/Concepts/SWI-SNF.md",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Background reading/Non-coding RNA and broader implications of the ENCODE project.md",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Personal Notes/Cell Cycle Control and Cancer.md",
     "HOMEPAGE.md",
-    "Year 3/Genetics/Concepts/Coactivators.md",
-    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
-    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Lectures",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Personal Notes",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 14.pdf",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 13.pdf",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 12.pdf",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 11.pdf",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 10.pdf",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 9.pdf",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 8.pdf",
+    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 7.pdf",
     "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Background reading/Dissertation on eukaryotic transcription.md",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Background reading/Basics - regulation of transcription in eukaryotes and genome and genomics.md",
+    "Micellaneous/Beliefs.md",
     "Year 3/Genetics/Concepts/Modularity.md",
+    "CALENDÁRIO/DIAS/2025-10-03.md",
+    "Year 3/Genetics/Concepts/Enhancers.md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Critically evaluate the evidence that histone modifications constitute a 'code' that is read by the cell to direct gene expression..md",
+    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Discuss the diverse mechanisms by which eukaryotic cells achieve precise transcriptional control..md",
+    "Year 3/Genetics/Concepts/Determination of cell fate, stem cells (embryonic and adult), and induced pluripotency (iPSCs)..md",
+    "Year 3/Genetics/Concepts/Coregulator.md",
+    "Year 3/Genetics/Concepts/coregulators.md",
+    "Year 3/Genetics/Concepts/SWI-SNF.md",
+    "Year 3/Genetics/Concepts/Coactivators.md",
     "Year 3/PFP C/Questions to ask.md",
     "Year 3/Genetics/Concepts/Position-Effect Variegation.md",
     "Year 3/PFP C/CHARITIES.md",
-    "Year 3/Philosophy and Ethics of Medicine",
-    "Year 3/Genetics",
     "CALENDÁRIO/DIAS/2025-09-22.md",
     "Year 3/Genetics/Summer/Cell and Developmental Biology/Molecular Biology of Cell nucleus/Annotated Handout.md",
     "Year 3/Genetics/Concepts/Gal4.md",
     "Year 3/Genetics/Concepts/Combinatorial control.md",
-    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/‘Selfish parasites’ or ‘engines of evolution’? Critically evaluate the impact of DNA-based transposons on genome structure and function..md",
-    "Year 3/Genetics/Concepts/DNA-based Transposons.md",
-    "Year 3/Genetics/Concepts/transposable elements.md",
-    "Year 3/Genetics/Summer/Cell and Developmental Biology/The genetic revolution, from genes to genomes/Notes on genome organisation and function.md",
-    "Year 3/Genetics/Concepts/Transcription factors.md",
-    "Year 3/Genetics/Concepts/erasers.md",
-    "Year 3/Genetics/Concepts/Histone acetylation.md",
-    "Year 3/Genetics/Concepts/histone code hypothesis.md",
-    "Year 3/Genetics/Concepts/segment-polarity genes.md",
-    "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Drawing 2025-08-27 21.14.01.excalidraw.md",
-    "Year 3/Genetics/Concepts/Toolkit genes.md",
-    "Year 3/Genetics/Concepts/readers.md",
     "Year 3/Genetics/Images/Pasted image 20250911215720.png",
-    "ESFORÇOS/PROJETOS/Projeto 1",
-    "ESFORÇOS/AREAS/Finanças",
-    "ESFORÇOS/AREAS/Saúde",
     "SISTEMA/MEDIA/Pasted image 20250910044512.png",
-    "index.py",
-    "SISTEMA/SCRIPTS/last-created.js",
-    "SISTEMA/SCRIPTS/last-modified.js",
-    "SISTEMA/SCRIPTS/last-modified.JS",
-    "SISTEMA/SCRIPTS/1.JS",
     "SISTEMA/MEDIA/Images/lyt-crafting-mocs-2.jpg",
     "SISTEMA/MEDIA/Images/flight-school-checklist.jpg",
     "SISTEMA/MEDIA/Images/lyt-crafting-mocs-0.jpg",
