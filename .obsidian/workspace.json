@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Personal Notes/Cell Cycle Control and Cancer.md",
+                "file": "Year 3/Genetics/Dissertation/My Dissertation/Titles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,17 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cell Cycle Control and Cancer"
+              "title": "Titles"
             }
           },
           {
             "id": "0312df1c29a02ecf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PFP D/Roles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Roles"
             }
           },
           {
@@ -90,9 +104,31 @@
               "icon": "lucide-file",
               "title": "Non-coding RNA and broader implications of the ENCODE project"
             }
+          },
+          {
+            "id": "714132607c3301f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year 3/Genetics/Excalidraw/Regulation of Transcription in Eukaryotes.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Regulation of Transcription in Eukaryotes.excalidraw"
+            }
+          },
+          {
+            "id": "65a0fd5bb2492fb5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -356,21 +392,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b63cf7c0c5fe868",
+  "active": "0312df1c29a02ecf",
   "lastOpenFiles": [
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Lectures/M1 Segal L1-8_ OutlineRefs_2025.pdf",
+    "PFP D/Roles.md",
+    "PFP D",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Lectures/cAMP expanded notes.pdf",
+    "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Lectures/Segal_Handout_L1-6_2025@.pdf",
+    "Year 3/Genetics/Dissertation/My Dissertation/Titles.md",
     "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Background reading/Non-coding RNA and broader implications of the ENCODE project.md",
     "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Personal Notes/Cell Cycle Control and Cancer.md",
     "HOMEPAGE.md",
+    "Year 3/Genetics/Excalidraw/Regulation of Transcription in Eukaryotes.excalidraw.md",
     "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Lectures",
     "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Cell Cycle Control in  Eukaryotes/Personal Notes",
     "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 14.pdf",
     "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 13.pdf",
     "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 12.pdf",
     "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 11.pdf",
-    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 10.pdf",
-    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 9.pdf",
-    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 8.pdf",
-    "Year 3/Genetics/Introduction to Genetic Analysis by Anthony Griffiths, Doebley John, Peichel Catherine, and Wassarman David/Chapter 7.pdf",
     "Year 3/Genetics/Essays/Genes, Genomes & Chromosomes/Junk DNA is a defunct concept. Explain..md",
     "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Background reading/Dissertation on eukaryotic transcription.md",
     "Year 3/Genetics/Michaelmas/Genes, Genomes & Chromosomes M1/Background reading/Basics - regulation of transcription in eukaryotes and genome and genomics.md",
@@ -390,9 +429,6 @@
     "Year 3/Genetics/Concepts/Position-Effect Variegation.md",
     "Year 3/PFP C/CHARITIES.md",
     "CALENDÁRIO/DIAS/2025-09-22.md",
-    "Year 3/Genetics/Summer/Cell and Developmental Biology/Molecular Biology of Cell nucleus/Annotated Handout.md",
-    "Year 3/Genetics/Concepts/Gal4.md",
-    "Year 3/Genetics/Concepts/Combinatorial control.md",
     "Year 3/Genetics/Images/Pasted image 20250911215720.png",
     "SISTEMA/MEDIA/Pasted image 20250910044512.png",
     "SISTEMA/MEDIA/Images/lyt-crafting-mocs-2.jpg",
